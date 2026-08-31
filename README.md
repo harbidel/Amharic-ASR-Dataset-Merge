@@ -4,7 +4,7 @@ Notebook that combines four Amharic speech-recognition datasets from the
 Hugging Face Hub into a single, deduplicated, re-split corpus, and pushes
 the result to the Hub.
 
-**Merged dataset:** [Harbidel/amharic-asr-merged](https://huggingface.co/datasets/Harbidel/amharic-asr-merged)
+**The combined dataset is available on huggingface here:** [Harbidel/amharic-asr-merged](https://huggingface.co/datasets/Harbidel/amharic-asr-merged)
 
 ## Source datasets
 

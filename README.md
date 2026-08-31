@@ -13,10 +13,6 @@ the result to the Hub.
 - [beimnet777/amharic-asr](https://huggingface.co/datasets/beimnet777/amharic-asr)
 - [snapwre/amharic-speech](https://huggingface.co/datasets/snapwre/amharic-speech)
 
-> ⚠️ Before pushing publicly, check each source dataset's license/card to
-> confirm redistribution as a merged dataset is allowed. Most CC-BY style
-> licenses are fine, but always verify.
-
 ## What the notebook does
 
 1. Installs dependencies and logs in to the Hugging Face Hub

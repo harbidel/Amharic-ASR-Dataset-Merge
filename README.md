@@ -4,7 +4,7 @@ Notebook that combines four Amharic speech-recognition datasets from the
 Hugging Face Hub into a single, deduplicated, re-split corpus, and pushes
 the result to the Hub.
 
-**The combined dataset is available on huggingface here:** [Harbidel/amharic-asr-merged](https://huggingface.co/datasets/Harbidel/amharic-asr-merged)
+**The combined dataset is available on huggingface here:** [Amharic-ASR-Merged](https://huggingface.co/datasets/Harbidel/amharic-asr-merged)
 
 ## Source datasets
 
@@ -58,5 +58,4 @@ Run the cells top to bottom:
 ## License
 
 The merge notebook itself has no license restrictions; the resulting
-dataset's license follows the terms of the source datasets it combines
-(see the warning above).
+dataset's license follows the terms of the source datasets it combines.
